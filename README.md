@@ -8,3 +8,4 @@ ready for pd1
 study pluralsight
 focus on force
 Trailhead
+oh babby!
